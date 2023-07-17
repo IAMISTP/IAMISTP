@@ -1,6 +1,6 @@
 
-<h1> Hi, I'm hyemin <img src="![KakaoTalk_Photo_2023-07-17-19-27-53](https://github.com/IAMISTP/IAMISTP/assets/137421610/ce3eb726-8ec1-476e-8be9-c3b0d1beba6e)
-" height="180"></h1>
+<h1> Hi, I'm hyemin</h1>
+<img src="https://avatars.githubusercontent.com/u/137421610?v=4" height="180">
 
 - 💻 I am FrontEnd Engineer
 
