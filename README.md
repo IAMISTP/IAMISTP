@@ -1,6 +1,6 @@
 
 <h1> Hi, I'm hyemin</h1>
-<img src="https://avatars.githubusercontent.com/u/137421610?v=4" height="180">
+<img src="https://github.com/IAMISTP/IAMISTP/assets/137421610/fe3d4190-5e82-455d-ae0e-17195b869fa6" height="180">
 
 - 💻 I am FrontEnd Engineer
 
