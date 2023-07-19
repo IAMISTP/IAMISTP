@@ -24,3 +24,4 @@
 </div>
 <br/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IAMISTP&layout=compact)](https://github.com/IAMISTP/github-readme-stats)
